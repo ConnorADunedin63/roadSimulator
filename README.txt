@@ -21,3 +21,4 @@ I want to add a field of view so that the player will have to look around using 
 
 Running the game
 If you are working in an IDE simply run Main.java class in the view package.
+Currently this is the only way to do it as the jar file throws an error when run.
